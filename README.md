@@ -12,5 +12,5 @@ Credits to original keg: `https://github.com/Homebrew/homebrew-boneyard/blob/mas
 Another keg is nipper, which is auditing tool for Cisco iOS routers
 
 Usage:
-- `brew install https://raw.githubusercontent.com/evanowe/homebrew-misc/master/nipper.rb`
-- 
+
+- `brew install https://raw.githubusercontent.com/evanowe/homebrew-misc/master/nipper.rb` 
